@@ -1,1 +1,3 @@
 Ala.
+
+Dodanie nowej funkcjonalnosci.
